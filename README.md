@@ -1,2 +1,2 @@
 # SetsunadotFrq.github.io
-Web Repository
+GitHub&Pages 初心者
