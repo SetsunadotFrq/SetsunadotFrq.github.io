@@ -1,2 +1,0 @@
-# docs
-GitHub Pages
